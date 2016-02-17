@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PortCall]]></title>
         <description><![CDATA[PortCall]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/portcall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 20:55:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 20:59:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/portcall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c144fb5e-b2b1-4283-984d-5b7af905ae96.jpg">]]></description>
+            <link>https://thegrid.ai/portcall/e94c08ab-488c-40ff-94c8-85bdc9414d45/index.html</link>
+            <guid isPermaLink="false">e94c08ab-488c-40ff-94c8-85bdc9414d45</guid>
+            <pubDate>Wed, 17 Feb 2016 20:58:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[cool]]></title>
-            <description><![CDATA[<article><h1>cool</h1><p>PortCall selected for international port innovation accelerator.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e7eab7d-226f-4832-8ebb-d4fef150ed04.png"></article>]]></description>
-            <link>undefinedcool/index.html</link>
+            <description><![CDATA[<article><h1>cool</h1><p>PortCall selected for international port innovation accelerator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5752a8b040bc0232493f6d39f822213349bf649b.png"></article>]]></description>
+            <link>https://thegrid.ai/portcall/cool/index.html</link>
             <guid isPermaLink="false">bfb0f6a9-23bb-4d47-b661-e6c9c72d097e</guid>
             <pubDate>Wed, 17 Feb 2016 20:53:45 GMT</pubDate>
         </item>
