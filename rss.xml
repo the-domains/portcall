@@ -4,8 +4,15 @@
         <description><![CDATA[PortCall]]></description>
         <link>https://thegrid.ai/portcall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 21:00:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 21:10:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/portcall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Order Sections]]></title>
+            <description><![CDATA[<article><h1>Order Sections</h1><p>Simple drag and drop sections help dispatchers maintain pilot rotation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc940798b0dbbef5347fba8b4a08dd18b2027649.gif"></article>]]></description>
+            <link>https://thegrid.ai/portcall/order-sections/index.html</link>
+            <guid isPermaLink="false">5b3069a9-7dbd-4e2a-9cc0-266a4178d721</guid>
+            <pubDate>Wed, 17 Feb 2016 21:10:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The PortCall Profile keeps you in sync with last minute changes through automatic notifications sent via text or emails. The Berth Timeline lets you drag-and-drop port calls to change line times, foot marks, or berth assignments. The Traffic view keeps pilot times separate from berth times and simplifies traffic coordination with a timeline view of the day's movements. </p>]]></description>
